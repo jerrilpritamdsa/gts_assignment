@@ -14,4 +14,4 @@ Check if the identity exists in the dictionary, and if it does, move the file to
 Please refer trainmodel.py and testmodel.py for the code
 
 2. Create a Handwritten Digit Recognition System using an ML algorithm that can recognize handwritten digits. You may use any database of handwritten digits which is available online.
-Please refer to handwriting.py for the code
+Please refer to hand_writing_recognition.ipynb for the code
